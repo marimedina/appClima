@@ -1,0 +1,11 @@
+{
+  "name": "appclima",
+  "version": "1.0.0",
+  "description": "App de consumo de API rest clima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maria medina",
+  "license": "MIT"
+}
